@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SessionApplication
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
@@ -57,3 +58,10 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Tatvasoft_Summer_Internship
+
+Student Name: ***ANSH PATEL***  
+Enrollment No.: ***220170116030***  
+College Name: ***Vishwakarma Government Engineering College (VGEC)***
+>>>>>>> 47dbd7a2958bb59f7e293c30c5ad358764327892
