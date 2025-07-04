@@ -1,0 +1,41 @@
+input {
+  display: block;
+  margin-bottom: 8px;
+  padding: 6px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  width: 250px;
+}
+
+.valid-name {
+  color: green;
+  font-size: 0.95em;
+}
+
+.invalid-name {
+  color: red;
+  font-size: 0.95em;
+}
+
+button[type="submit"] {
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+button[type="submit"]:hover {
+  background: #125ea2;
+}
+
+ul {
+  margin-top: 18px;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}

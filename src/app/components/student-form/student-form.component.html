@@ -1,0 +1,62 @@
+<h2>Student Info Form</h2>
+
+<!--Interpolation-->
+<p>Welcome, {{studentName}}!</p>
+
+<form (ngSubmit)="submitForm()" #studentForm="ngForm">
+  <!-- Name -->
+  <input
+    name="name"
+    [(ngModel)]="studentName"
+    placeholder="Enter Student Name"
+    [ngStyle]="{borderColor: studentName ? 'green' : 'red'}"
+    required
+  />
+  <p [ngClass]="{'valid-name': studentName.length > 3, 'invalid-name': studentName.length <= 3}">
+    Name must be more than 3 characters.
+  </p>
+
+  <!-- Enrollment -->
+  <input
+    name="enrollment"
+    [(ngModel)]="enrollment"
+    placeholder="Enter Enrollment Number"
+    required
+  />
+  <p *ngIf="enrollment && enrollment.length < 5" class="invalid-name">
+    Enrollment must be at least 5 characters.
+  </p>
+
+  <!-- Email -->
+  <input
+    name="email"
+    [(ngModel)]="email"
+    placeholder="Enter Email"
+    type="email"
+    required
+  />
+  <p *ngIf="email && !email.includes('@')" class="invalid-name">
+    Enter a valid email.
+  </p>
+
+  <!-- Age -->
+  <input
+    name="age"
+    [(ngModel)]="age"
+    placeholder="Enter Age"
+    type="number"
+    min="1"
+  />
+
+  <button type="submit">Submit</button>
+</form>
+
+<!--Structural Directive: *ngIf-->
+<p *ngIf="submitted">Student submitted successfully!</p>
+
+<!--Structural Directive: *ngFor-->
+<ul>
+  <li *ngFor="let student of students; index as i">
+    {{student.name}} ({{student.enrollment}}) - {{student.email}} - Age: {{student.age}}
+  </li>
+</ul>
