@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC38F70-4C20-48C5-8F21-2930C3F1A8A6}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA7E380-DB54-40B8-9448-ECD29D199E0A}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|c:\\users\\asus\\onedrive\\desktop\\tatva soft\\day 5\\mission day5\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F40A48F-84F2-4226-B9C6-B4D4E8E45CF0}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Services\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Services\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:45:56.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:58.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:38.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:44:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:42:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tatva Soft\\Day 5\\Mission day5\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:55:47.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

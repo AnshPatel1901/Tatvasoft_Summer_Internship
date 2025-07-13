@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\User_Management.DataAccess",
+    "\\User_Management.DataAccess\\bin",
+    "\\User_Management.DataAccess\\Migrations",
+    "\\User_Management.DataAccess\\Models",
+    "\\User_Management.Services",
+    "\\User_Management.Services\\Services",
+    "\\User_Managment",
+    "\\User_Managment\\Controllers"
+  ],
+  "SelectedNode": "\\User_Management.DataAccess\\Models\\User.cs",
+  "PreviewInSolutionExplorer": false
+}
